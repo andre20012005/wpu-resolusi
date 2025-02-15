@@ -1,0 +1,4 @@
+Wpo reolusi
+- fokus belajar laravel
+-react
+-github
