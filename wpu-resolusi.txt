@@ -2,3 +2,4 @@ Wpo reolusi
 - fokus belajar laravel
 -react
 -github
+-mempelajari apsi, erd lebih dalam
